@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 114465936
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testtemp.one
+      Dependencies: {}
